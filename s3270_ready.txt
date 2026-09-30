@@ -1,0 +1,12 @@
+U F P C(127.0.0.1) I 4 24 80 0 0 0x0 0.049
+ok
+U F P C(127.0.0.1) I 4 24 80 0 0 0x0 0.000
+ok
+data:  Hercules Version  : 4.00                                                       
+data:  Host name         : DESKTOP-45L6L1C                                            
+data:  Host OS           : Windows-6.2.9200  Professional 64-bit                      
+data:  Host Architecture : AMD(R) x64                                                 
+data:  Processors        : LP=12, Cores=6, CPUs=1                                     
+data:  LPAR Name         : HERCULES                                                   
+data:  Device number     : 0:00C0                                                     
+data:                             ************   ****  *****          ||              

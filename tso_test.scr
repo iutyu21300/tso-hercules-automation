@@ -1,0 +1,12 @@
+Connect("127.0.0.1:3270")
+Wait(3270Mode)
+Ascii
+String("tso herc01")
+Enter
+Wait(InputField)
+Ascii
+String("cul8tr")
+Enter
+Wait(3270Mode,5,3270)
+Ascii
+Quit

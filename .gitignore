@@ -1,0 +1,12 @@
+# Logs
+*.log
+*.txt
+!TK4-Guide.txt
+!s3270_ready.txt
+
+# Temporary files
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

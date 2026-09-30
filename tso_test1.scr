@@ -1,0 +1,4 @@
+Connect("127.0.0.1:3270")
+Wait(3270Mode)
+Ascii
+Quit
